@@ -1,0 +1,6 @@
+interface:
+  display_name: "ライティング"
+  short_description: "ルールに沿って文章を端的に作成"
+  default_prompt: "$my-writing を使って、ドキュメントを作成・編集してください。"
+policy:
+  allow_implicit_invocation: false
